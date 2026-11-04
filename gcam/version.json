@@ -1,0 +1,11 @@
+{
+  "version": "2.3",
+  "notes": [
+    "Carpetas por día en la galería al elegir un proyecto",
+    "Renumerar fotos después de borrar las repetidas",
+    "KMZ, PDF y Word más rápidos y estables con muchas fotos",
+    "Exportar a Google Earth como KMZ (con fotos) o KML (solo puntos)",
+    "Coordenadas manuales: el formulario recuerda lo último escrito",
+    "El GPS se reconecta solo al volver a encenderlo"
+  ]
+}
